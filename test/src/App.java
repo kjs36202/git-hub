@@ -9,9 +9,12 @@ public class App {
         System.out.print("출력값 : ");
         System.out.println(a);
         System.out.println("hi");
+        System.out.println("잠온다");
         sc.close();
         
 
 
+
     }
 }
+
