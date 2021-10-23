@@ -9,6 +9,7 @@ public class App {
         System.out.print("출력값 : ");
         System.out.println(a);
         System.out.println("hi");
+        sc.close();
         
 
 
